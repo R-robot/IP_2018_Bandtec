@@ -83,3 +83,4 @@ git config --global user.email "seu email aqui" --> como padrão seu email
 (ATENÇÂO !!! o git push -f USAR somente em casos extremos). 
 #6 Sempre comentar no git commit -m o que foi feito ou alterado.
 #7 Ao dar git push e der erro de commit , avisar ao grupo o que esta acontecendo (pois possa haver algum commit travado).
+#8 criar um issue especifico e direcionado a cada usuario
